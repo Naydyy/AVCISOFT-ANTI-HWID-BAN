@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Windows.old\Users\Naydy\Documents\Visual Studio 2013\Projects\hookedx\hookedx\main.cpp(85,16): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Windows.old\Users\Naydy\Documents\Visual Studio 2013\Projects\hookedx\hookedx\main.cpp(200,8): warning C4101: 'bytes': yerel değişken başvurusu kaldırıldı
+C:\Windows.old\Users\Naydy\Documents\Visual Studio 2013\Projects\hookedx\hookedx\main.cpp(222,8): warning C4101: 'bytes': yerel değişken başvurusu kaldırıldı
+C:\Windows.old\Users\Naydy\Documents\Visual Studio 2013\Projects\hookedx\hookedx\main.cpp(317,47): warning C4267: 'bağımsız değişken': 'size_t' - 'short' dönüşümü; veri kaybı olabilir
+C:\Windows.old\Users\Naydy\Documents\Visual Studio 2013\Projects\hookedx\hookedx\main.cpp(319,47): warning C4267: 'bağımsız değişken': 'size_t' - 'short' dönüşümü; veri kaybı olabilir
+C:\Windows.old\Users\Naydy\Documents\Visual Studio 2013\Projects\hookedx\hookedx\main.cpp(325,46): warning C4267: 'bağımsız değişken': 'size_t' - 'short' dönüşümü; veri kaybı olabilir
+C:\Windows.old\Users\Naydy\Documents\Visual Studio 2013\Projects\hookedx\hookedx\main.cpp(327,48): warning C4267: 'bağımsız değişken': 'size_t' - 'short' dönüşümü; veri kaybı olabilir
+  hookedx.vcxproj -> C:\Windows.old\Users\Naydy\Documents\Visual Studio 2013\Projects\hookedx\Debug\hookedx.dll
